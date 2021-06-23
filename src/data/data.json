@@ -1,0 +1,69 @@
+[{
+    "equipments" : [
+        {
+            "name": "Treadmills A",
+            "type": "Treadmill",
+            "serial_no": "SEC2629",
+            "screen_type": "Discover SE3 HD",
+            "update": {
+                "status": "SUCCESS",
+                "date": "08/11/2020"
+            },
+            "status": "CONNECTED"
+        },
+        {
+            "name": "Treadmills B",
+            "type": "Treadmill",
+            "serial_no": "SEC2630",
+            "screen_type": "Discover SE4 HD",
+            "update": {
+                "status": "FAILED",
+                "date": "08/26/2020"
+            },
+            "status": "NOT_CONNECTED"
+        },
+        {
+            "name": "Treadmills C",
+            "type": "Treadmill",
+            "serial_no": "SEC2631",
+            "screen_type": "Discover SE5 HD",
+            "update": {
+                "status": "PENDING"
+            },
+            "status": "CONNECTED"
+        },
+        {
+            "name": "CT A",
+            "type": "Elliptical Cross-Trainers",
+            "serial_no": "ECT001",
+            "screen_type": "Integrity HD",
+            "update": {
+                "status": "SUCCESS",
+                "date": "08/11/2020"
+            },
+            "status": "CONNECTED"
+        },
+        {
+            "name": "CT B",
+            "type": "Elliptical Cross-Trainers",
+            "serial_no": "ECT002",
+            "screen_type": "Integrity HD",
+            "update": {
+                "status": "FAILED",
+                "date": "08/12/2020"
+            },
+            "status": "CONNECTED"
+        },
+        {
+            "name": "CT C",
+            "type": "Elliptical Cross-Trainers",
+            "serial_no": "ECT003",
+            "screen_type": "Integrity HD",
+            "update": {
+                "status": "SUCCESS",
+                "date": "08/11/2020"
+            },
+            "status": "CONNECTED"
+        }
+    ]
+}]
