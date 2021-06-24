@@ -9,8 +9,8 @@ const Layout = (props) => {
       <Container-fluid>
         <Row style={{backgroundColor: "#f8f9fa"}}>
             <Col style={{margin: "20px"}}>
-             <img src="../images/logo.png"/>
-             <img src="../images/avatar.png" style={{float: "right"}}/>
+             <img src="./images/logo.png"/>
+             <img src="./images/avatar.png" style={{float: "right"}}/>
             </Col>
         </Row>
         <Row>
